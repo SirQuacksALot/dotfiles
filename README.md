@@ -5,7 +5,7 @@
 ![HYPRLAND](https://img.shields.io/badge/Hyprland-white?style=flat-square&logo=wayland&logoColor=white&labelColor=%23492730&color=%236b3a4a) ![QUICKSHELL](https://img.shields.io/badge/QuickShell-white?style=flat-square&logo=qt&logoColor=white&labelColor=%23492730&color=%236b3a4a) ![CACHYOS](https://img.shields.io/badge/CachyOS-white?style=flat-square&logo=archlinux&logoColor=white&labelColor=%23492730&color=%236b3a4a)
 
 <pre>
-<a href=#>ᴘʀᴇᴠɪᴇᴡ</a>   •  <a href=#>ɪɴsᴛᴀʟʟᴀᴛɪᴏɴ</a>    •  <a href=#>ᴅᴇᴘᴇɴᴅᴇɴᴄɪᴇs</a>    •  <a href=#>ᴅɪᴀʀʏ</a>
+<a href=#preview>ᴘʀᴇᴠɪᴇᴡ</a>   •  <a href=#installation>ɪɴsᴛᴀʟʟᴀᴛɪᴏɴ</a>    •  <a href=#dependencies>ᴅᴇᴘᴇɴᴅᴇɴᴄɪᴇs</a>    •  <a href=#diary>ᴅɪᴀʀʏ</a>
 </pre>
 
 </div>
