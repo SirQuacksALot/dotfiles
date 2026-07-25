@@ -41,6 +41,7 @@ What is this about you ask ? Well my personal take on having a personalized syst
 **[25.July.2026]**
 
 --- Quickshell plan ---
+
 A dynamic floating island which hides when windows fill the screen (non flowting and fullscreen windows).
 
 The island shall transform into all other context windows (wallpaper picker, notification, info bar, control center, ...)
@@ -58,3 +59,22 @@ I will orientate my self on my last ai driven [dotfiles project](https://github.
 Icon Style will be [Lucide Icons](https://github.com/lucide-icons/lucide).
 
 Another realy nice project I will take inspiration from (#codeEqualsInspiration:stuck_out_tongue_winking_eye:) is [Tide Island](https://github.com/enhaoswen/Tide-island/tree/main) as the goal is basically the same but a little bit less "mac-os-i".
+
+--- Notes on Tuckr ---
+
+Workflow
+
+1. Everything that can be grouped, will be grouped.
+2. (new?) `tuckr push <group> <path/to/file(s)/or/folder/>`
+3. (exists?) copy local and symlink back `tuckr add -a <group>`
+4. (not existing or dotfile is newer?) (force) symlink `tuckr add (-f) <group>`
+
+My User workspace standard folders
+
+```
+<username>
+├── Downloads
+├── Documents
+├── Wallpapers
+└── Repositories
+```
