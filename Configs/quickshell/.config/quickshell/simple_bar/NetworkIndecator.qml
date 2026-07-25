@@ -4,6 +4,7 @@ import QtQuick.Layouts
 import Quickshell // for PanelWindow
 import Quickshell.Services.UPower
 import Quickshell.Widgets
+import "../components"
 
 RowLayout {
     property int iconWidth: 20
