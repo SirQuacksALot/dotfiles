@@ -1,6 +1,6 @@
 <div align="center">
 
-**Hyprland rice on CachyOS — QuickShell bar, Catppuccin theming, and a morphing pill UI**
+**Hyprland rice on CachyOS — QuickShell bar, theming, and a morphing UI**
 
 ![HYPRLAND](https://img.shields.io/badge/Hyprland-white?style=flat-square&logo=wayland&logoColor=white&labelColor=%23492730&color=%236b3a4a) ![QUICKSHELL](https://img.shields.io/badge/QuickShell-white?style=flat-square&logo=qt&logoColor=white&labelColor=%23492730&color=%236b3a4a) ![CACHYOS](https://img.shields.io/badge/CachyOS-white?style=flat-square&logo=archlinux&logoColor=white&labelColor=%23492730&color=%236b3a4a)
 
